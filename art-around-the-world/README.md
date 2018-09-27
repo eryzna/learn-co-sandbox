@@ -1,4 +1,4 @@
-Welcome!
+Hello and welcome!
 
 # Art::Around::The::World
 
